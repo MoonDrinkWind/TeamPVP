@@ -1,0 +1,14 @@
+name: TeamPVP
+version: ${project.version}
+main: china.moondrinkwind.minecraft.teampvp.TeamPVP
+authors: [MoonDrinkWind]
+commands:
+  team:
+    usage: "§a/team 参数[create/invite/list/PVP/exit/dissolution]
+    create = 创建队伍
+    invite = 邀请玩家
+    list = 列出队伍中的玩家
+    PVP = 开始PVP 需要提供对方队长ID
+    exit = 退出队伍
+    dissolution = 解散队伍
+    "

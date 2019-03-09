@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TeamPVP">
+    <output-path>F:/MinecraftServer/plugins</output-path>
+    <root id="archive" name="TeamPVP.jar">
+      <element id="module-output" name="TeamPVP" />
+    </root>
+  </artifact>
+</component>

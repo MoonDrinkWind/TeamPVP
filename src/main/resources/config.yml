@@ -1,0 +1,9 @@
+#PVP场地名
+place:
+  - test
+#PVP区域中心
+test:
+  world: "World"
+  x: 116
+  y: 20
+  z: 116
